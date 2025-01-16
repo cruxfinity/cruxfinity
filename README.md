@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hi, I’m Crux an aspiring software dev sharing about my journey and learning in tech.
-![MasterHead](https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif)
+Hi, I’m Crux. Sharing about my journey and learning in tech.
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQFqLq77YAos7g/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1713144519479?e=2147483647&v=beta&t=uQu0xSmHB5BwjLGiVzsosy3lOmOYVlm0Td9pfNh1GWA)
 
 # 💻 Tech Stack:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
