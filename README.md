@@ -16,6 +16,6 @@ Hi, I’m Crux. Sharing about my journey and learning in tech.
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=cruxfinity&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{cruxfinity}/count.svg)
 
 
